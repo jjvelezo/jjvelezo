@@ -10,6 +10,6 @@
 
 - I enjoy editing videos an photos 🎥 
 
-- I speak in Spanish, English and I'm learning French 🎓 
+- I speak in Spanish, English and I'm learning German 🎓 
 
 - I love playing different sports ⚽️ 
