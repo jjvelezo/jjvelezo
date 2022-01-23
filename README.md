@@ -4,11 +4,7 @@
 
 - I’m currently studing System Engineering 🖥 
 
-- I’m learning about Cryptocurrency 🪙
-
-- I’m learning Java, Python and other languages 🤔 
-
-- I enjoy editing videos an photos 🎥 
+- I’m learning Python and other languages 🤔 
 
 - I speak in Spanish, English and I'm learning German 🎓 
 
