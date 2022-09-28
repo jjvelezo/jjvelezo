@@ -6,6 +6,6 @@
 
 - I’m learning Python and other languages 🤔 
 
-- I speak in Spanish, English and I'm learning German 🎓 
+- I speak in Spanish and English 
 
-- I love playing different sports ⚽️ 
+- I PLAY different sports ⚽️ 
