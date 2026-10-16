@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="330" viewBox="0 0 960 330" role="img" aria-label="Juan José Vélez — AI &amp; Automation Engineer, founder of Bocati">
+<style>
+  text { font-family: 'JetBrains Mono','SFMono-Regular',Consolas,Menlo,monospace; font-size: 14px; }
+  .ln { animation: in .5s ease-out both; }
+  .cur { animation: blink 1s steps(1) infinite; }
+  @keyframes in { from { opacity: 0; } to { opacity: 1; } }
+  @keyframes blink { 50% { opacity: 0; } }
+</style>
+<rect x="8" y="8" width="944" height="314" rx="14" fill="#0d1117" stroke="#253042"/>
+<circle cx="34" cy="34" r="5.5" fill="#ff5f57"/><circle cx="52" cy="34" r="5.5" fill="#febc2e"/><circle cx="70" cy="34" r="5.5" fill="#28c840"/>
+<text x="480.0" y="38" fill="#5f6f85" style="font-size:12px" text-anchor="middle">~/jjvelezo</text>
+<line x1="8" y1="56" x2="952" y2="56" stroke="#253042"/>
+
+<rect x="28" y="72" width="436" height="234" rx="8" fill="#111722" stroke="#253042"/>
+<text x="46" y="96" fill="#9fb0c3" style="font-size:11px" font-weight="700" letter-spacing="1.5">HIGHLIGHTS</text>
+<g class="ln" style="animation-delay:0.20s"><text x="48" y="141" fill="#ff7b72" style="font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-size:28px;font-weight:800">1st/70</text><text x="170" y="130" fill="#e6edf3" style="font-size:12.5px">Won Bancolombia's AI agent challenge</text><text x="170" y="148" fill="#5f6f85" style="font-size:11.5px">70 participants from 4 countries</text></g>
+<g class="ln" style="animation-delay:0.40s"><text x="48" y="203" fill="#ff7b72" style="font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-size:28px;font-weight:800">−80%</text><text x="170" y="192" fill="#e6edf3" style="font-size:12.5px">Process time cut with an AI agent</text><text x="170" y="210" fill="#5f6f85" style="font-size:11.5px">40h → 8h on a Bancolombia workflow</text></g>
+<g class="ln" style="animation-delay:0.60s"><text x="48" y="265" fill="#ff7b72" style="font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-size:28px;font-weight:800">900+</text><text x="170" y="254" fill="#e6edf3" style="font-size:12.5px">Users on Bocati, my startup</text><text x="170" y="272" fill="#5f6f85" style="font-size:11.5px">plus 26 partner businesses in Medellín</text></g>
+
+<rect x="480" y="72" width="452" height="234" rx="8" fill="#111722" stroke="#253042"/>
+<text x="498" y="96" fill="#9fb0c3" style="font-size:11px" font-weight="700" letter-spacing="1.5">ABOUT-ME.YML</text>
+<g class="ln" style="animation-delay:0.30s"><text x="512" y="130" fill="#5f6f85" text-anchor="end">1</text><text x="528" y="130" xml:space="preserve"><tspan fill="#ff7b72">name:</tspan> <tspan fill="#e6edf3">Juan José Vélez</tspan></text></g>
+<g class="ln" style="animation-delay:0.40s"><text x="512" y="153" fill="#5f6f85" text-anchor="end">2</text><text x="528" y="153" xml:space="preserve"><tspan fill="#ff7b72">role:</tspan> <tspan fill="#e6edf3">AI &amp; Automation Engineer</tspan></text></g>
+<g class="ln" style="animation-delay:0.50s"><text x="512" y="176" fill="#5f6f85" text-anchor="end">3</text><text x="528" y="176" xml:space="preserve"><tspan fill="#ff7b72">building:</tspan> <tspan fill="#e6edf3">Bocati — an app against food waste</tspan></text></g>
+<g class="ln" style="animation-delay:0.60s"><text x="512" y="199" fill="#5f6f85" text-anchor="end">4</text><text x="528" y="199" xml:space="preserve"><tspan fill="#ff7b72">led:</tspan> <tspan fill="#e6edf3">AI adoption for SMEs <tspan fill="#5f6f85">·</tspan> gov-backed program</tspan></text></g>
+<g class="ln" style="animation-delay:0.70s"><text x="512" y="222" fill="#5f6f85" text-anchor="end">5</text><text x="528" y="222" xml:space="preserve"><tspan fill="#ff7b72">focus:</tspan> <tspan fill="#e6edf3">AI agents <tspan fill="#5f6f85">·</tspan> automation <tspan fill="#5f6f85">·</tspan> full-stack</tspan></text></g>
+<g class="ln" style="animation-delay:0.80s"><text x="512" y="245" fill="#5f6f85" text-anchor="end">6</text><text x="528" y="245" xml:space="preserve"><tspan fill="#ff7b72">based in:</tspan> <tspan fill="#e6edf3">Medellín, Colombia</tspan></text></g>
+<g class="ln" style="animation-delay:0.90s"><text x="512" y="268" fill="#5f6f85" text-anchor="end">7</text><text x="528" y="268" xml:space="preserve"><tspan fill="#ff7b72">speaks:</tspan> <tspan fill="#e6edf3">Spanish <tspan fill="#5f6f85">·</tspan> English <tspan fill="#5f6f85">·</tspan> Italian</tspan></text></g>
+<g class="ln" style="animation-delay:1.00s"><text x="512" y="291" fill="#5f6f85" text-anchor="end">8</text><text x="528" y="291" xml:space="preserve"><tspan fill="#ff7b72">status:</tspan> <tspan fill="#7ee787">open to new opportunities</tspan></text></g>
+<rect class="cur" x="801" y="279" width="8" height="16" fill="#ff7b72"/>
+</svg>
