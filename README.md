@@ -9,8 +9,8 @@
 
 <p>
 <a href="https://www.linkedin.com/in/juan-jose-velez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:jvz.engi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://bocati.app"><img src="https://img.shields.io/badge/bocati.app-9A0002?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Bocati"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jvz.engi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://bocati.netlify.app/"><img src="https://img.shields.io/badge/bocati.app-9A0002?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Bocati"></a>
 </p>
 
 </div>
@@ -21,12 +21,12 @@
   <img src="assets/whoami.svg" width="960" alt="Highlights: 1st of 70 in an AI agent challenge, 80% process time cut, 700+ Bocati users. About: AI & Automation Engineer based in Medellín">
 </p>
 
-I build **AI agents and automations that turn hours of manual work into minutes**, and I know how to take a product from the first line of code to real customers. I'm looking for teams where that combination of engineering and business drive makes a difference.
+I build **AI agents and automations that turn hours of manual work into minutes**, and I know how to take a product from the first line of code to real customers.
 
 ## Bocati
 
 <p align="center">
-  <a href="https://bocati.app">
+  <a href="https://bocati.netlify.app/">
     <img src="assets/bocati.svg" width="960" alt="Bocati: anti food-waste marketplace. 24 businesses, 700+ users, iOS and Android">
   </a>
 </p>
